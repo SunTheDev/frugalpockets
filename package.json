@@ -1,6 +1,6 @@
 {
+  "homepage": "http://sunthedev.github.io/frugalpockets/",
   "name": "react-complete-guide",
-  "homepage": "https://sunthedev.github.io/frugalpockets/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
