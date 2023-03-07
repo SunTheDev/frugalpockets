@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/frugalpockets/static/css/main.1080ba6d.chunk.css",
+    "main.js": "/frugalpockets/static/js/main.fa02202d.chunk.js",
+    "main.js.map": "/frugalpockets/static/js/main.fa02202d.chunk.js.map",
+    "runtime-main.js": "/frugalpockets/static/js/runtime-main.d358b763.js",
+    "runtime-main.js.map": "/frugalpockets/static/js/runtime-main.d358b763.js.map",
+    "static/js/2.de8d3d64.chunk.js": "/frugalpockets/static/js/2.de8d3d64.chunk.js",
+    "static/js/2.de8d3d64.chunk.js.map": "/frugalpockets/static/js/2.de8d3d64.chunk.js.map",
+    "index.html": "/frugalpockets/index.html",
+    "static/css/main.1080ba6d.chunk.css.map": "/frugalpockets/static/css/main.1080ba6d.chunk.css.map",
+    "static/js/2.de8d3d64.chunk.js.LICENSE.txt": "/frugalpockets/static/js/2.de8d3d64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d358b763.js",
+    "static/js/2.de8d3d64.chunk.js",
+    "static/css/main.1080ba6d.chunk.css",
+    "static/js/main.fa02202d.chunk.js"
+  ]
+}
